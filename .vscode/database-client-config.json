@@ -1,0 +1,34 @@
+{
+    "$schema": "https://release-1256208672.cos.ap-guangzhou.myqcloud.com/dbclient/schema.json",
+    "database": {
+        "1668889873535": {
+            "key": "1668889873535",
+            "host": "127.0.0.1",
+            "port": 3306,
+            "user": "root",
+            "password": "3325",
+            "dbType": "MySQL",
+            "usingSSH": false,
+            "global": false,
+            "savePassword": "Forever",
+            "hideSystemSchema": true,
+            "readonly": false,
+            "sort": 10,
+            "useSSL": false,
+            "encrypt": true,
+            "authType": "default",
+            "esAuth": "none",
+            "showHidden": true,
+            "srv": false,
+            "connectionKey": "database.connections",
+            "index": 1,
+            "advance": {
+                "safeUpdateMode": false,
+                "groupingTables": false,
+                "showForeignKey": false,
+                "trimCountSQL": false
+            },
+            "group": "SBD2"
+        }
+    }
+}

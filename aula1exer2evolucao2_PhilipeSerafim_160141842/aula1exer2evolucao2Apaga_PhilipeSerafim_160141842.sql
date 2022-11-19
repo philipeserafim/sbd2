@@ -1,11 +1,11 @@
--- ----------------     << aula1exer2 >>     --------------------
+-- ----------------     << aula1exer2evolucao2 >>     --------------------
 --
 --                    SCRIPT DE CRIACAO (DDL)
 --
 -- Data Criacao ...........: 06/11/2022
 -- Autor(es) ..............: Philipe Rosa Serafim
 -- Banco de Dados .........: PostgreSQL
--- Banco de Dados(nome) ...: aula1exer2
+-- Banco de Dados(nome) ...: aula1exer2evolucao2
 --
 -- date Ultima Alteracao ..: 10/11/2022
 --   => Revisão para evolução
@@ -14,7 +14,7 @@
 --         =>  Apaga
 -- -------------------------------------------------------------------
 
-USE aula1exer2;
+USE aula1exer2evolucao2;
 
 DROP TABLE habilitado;
 DROP TABLE possui;
