@@ -19,11 +19,11 @@ INSERT INTO SETOR (descricao) VALUES
     ("Neurologia"),
     ("Pediatria"),
     ("Ortopedia");
-INSERT INTO PLANTONISTA (cmr, nome, sexo) VALUES
-    ("Alex Karev", 'M'),
-    ("Cristina Yung", 'F'),
-    ("Dereck Sherped", 'M'),
-    ("Callie Torres", 'F');
+INSERT INTO PLANTONISTA (crm, nome, sexo) VALUES
+    ("005323", "Alex Karev", 'M'),
+    ("006547", "Cristina Yung", 'F'),
+    ("007865", "Dereck Sherped", 'M'),
+    ("002346", "Callie Torres", 'F');
 INSERT INTO ESPECIALIDADE (nome) VALUES
     ("Cardiologista"),
     ("Neurologista"),
